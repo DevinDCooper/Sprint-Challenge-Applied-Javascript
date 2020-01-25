@@ -28,15 +28,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. What is the DOM?
+1. What is the DOM? / Document Object Model an object representation of the html elements of a webpage
 
-2. What is an event?
+2. What is an event?/ events are interaction  we can use to on our webpage.  
 
-3. What is an event listener?
+3. What is an event listener?/  listens for events and uses a callback to then fire then event is triggered.
 
-4. Why would we convert a NodeList into an Array?
+4. Why would we convert a NodeList into an Array? so we could  use methods like forEach and map to iterate over
 
-5. What is a component?
+5. What is a component? / A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
 
 ### Git Set up
 
@@ -51,7 +51,7 @@ Your finished project must include all of the following requirements:
 
 * [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
+* [done ] Following the instructions in the `Header/index.js` file, create the Header component. 
 
 * [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
